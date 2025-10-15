@@ -4,5 +4,5 @@
 # This file is bible.txt
 # You should write a shell pipeline that finds the 10 most common words in the Bible and their count.
 #
-# Hint: uniq, sort, and head are your friends
+# Hint: cat, uniq, sort, and head are your friends. Use the man command (`man cat`) or look online.
 # Also, always sort before using uniq
